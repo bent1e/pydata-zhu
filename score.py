@@ -1,5 +1,6 @@
 import pandas as pd
 data1 = pd.read_excel('2道拖拽题学生作答0711.xlsx',sheet_name='题目1')
+
 data2 = pd.read_excel('2道拖拽题学生作答0711.xlsx',sheet_name='题目2')
 scores1 = []
 scores2 = []
